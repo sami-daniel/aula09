@@ -1,3 +1,6 @@
+// Nome: Sami Daniel Santos Silva
+// Matricula: 1261950200
+
 import java.util.Scanner;
 
 public class Exercicio06 {

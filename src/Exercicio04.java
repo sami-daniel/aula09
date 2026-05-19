@@ -1,3 +1,6 @@
+// Nome: Sami Daniel Santos Silva
+// Matricula: 1261950200
+
 public class Exercicio04 {
     public static int contarPares(int[] array) {
         int acumulador = 0;

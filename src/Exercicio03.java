@@ -1,3 +1,6 @@
+// Nome: Sami Daniel Santos Silva
+// Matricula: 1261950200
+
 public class Exercicio03 {
     public static int encontrarMaior(int[] array) {
         int maior = 0;
